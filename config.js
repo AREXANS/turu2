@@ -16,7 +16,7 @@ second: 'numeric'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
-}global.owner = ['6282146092695'] // Put your number here
+}global.owner = ['6289518030035'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina', // pasti org nya ganteng
   'https://hardianto.xyz': 'hardianto', // pasti org nya ganteng
-  'https://api.xteam.xyz': 'Dawnfrostkey',  // pasti org nya pelit
+  'https://api.xteam.xyz': '5bd33b276d41d6b4',  // pasti org nya pelit
   'https://zahirr-web.herokuapp.com': 'zahirgans',  // pasti org nya ganteng
   'https://bsbt-api-rest.herokuapp.com': 'benniismael', //hmmm 
   'https://server-api-rey.herokuapp.com': 'apirey', // pasti org nya ganteng
@@ -57,16 +57,16 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais',  // pasti org nya ganteng
   'https://leyscoders-api.herokuapp.com': 'dappakntlll', // pasti org nya gntng
   'https://zekais-api.herokuapp.com': 'zekais', //pasti org nya gntng
-  'https://api.lolhuman.xyz': 'pelitbetsihluwh', //pasti org nya pelit
+  'https://api.lolhuman.xyz': '9b817532fadff8fc7cb86862', //pasti org nya pelit
 }
 //cari apikey sendiri ya gaes yak gw saranin free aja yak
 //apikey lolhuman sama xteam pelit ygy gk free gk a6
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Rika'
-global.author = '>////<'
-
+global.packname = 'Aryaa ×፝֟͜×'
+global.author = 'Ambil aja'
+global.sessionName = "session"
 
 
 
